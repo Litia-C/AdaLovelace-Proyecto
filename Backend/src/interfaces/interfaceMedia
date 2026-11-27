@@ -1,0 +1,7 @@
+interface Media {
+  name: String;
+  synopsis: String;
+  genre: Array<String>;
+  email: String;
+  pfp?: String;
+}
