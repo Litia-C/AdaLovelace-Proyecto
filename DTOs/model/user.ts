@@ -1,4 +1,4 @@
-class Point {
+class User {
   idname: String;
   displayName: String;
   address: String;
